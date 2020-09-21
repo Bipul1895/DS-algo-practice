@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1598168170 source:/home/bipul/Documents/DS Algo Practice/Binary Search/MinimumSubsetSumDifference/main.cpp
+	<iostream>
+	<vector>
+
+1598176994 source:/home/bipul/Documents/DS Algo Practice/Dynamic Programming/Knapsack Pattern/MinimumSubsetSumDifference/main.cpp
+	<iostream>
+	<vector>
+	<climits>
+

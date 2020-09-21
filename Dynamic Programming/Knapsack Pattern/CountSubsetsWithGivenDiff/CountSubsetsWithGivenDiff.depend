@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598180788 source:/home/bipul/Documents/DS Algo Practice/Dynamic Programming/Knapsack Pattern/CountSubsetsWithGivenDiff/main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597408880 source:/home/bipul/Documents/Stack/MaximumRectAreaHistogram/main.cpp
+	<iostream>
+	<stack>
+	<vector>
+

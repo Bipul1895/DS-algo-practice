@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598356091 source:/home/bipul/Documents/DS Algo Practice/Dynamic Programming/LCS Pattern/Min No of Insertion and Deletion/main.cpp
+	<iostream>
+	<string>
+	<cstring>
+

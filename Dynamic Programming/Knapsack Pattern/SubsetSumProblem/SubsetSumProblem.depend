@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597835919 source:/home/bipul/Documents/DS Algo Practice/Dynamic Programming/Knapsack Pattern/SubsetSumProblem/main.cpp
+	<iostream>
+	<vector>
+

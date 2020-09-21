@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598791766 source:/home/bipul/Documents/DS Algo Practice/Recursion/Delete middle element of stack/main.cpp
+	<iostream>
+	<stack>
+

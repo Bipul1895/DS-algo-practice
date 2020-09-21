@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597400303 source:/home/bipul/Documents/Stack/Stack_Introduction_1/main.cpp
+	<iostream>
+	<stack>
+

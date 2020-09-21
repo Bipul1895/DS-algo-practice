@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597779602 source:/home/bipul/Documents/Recursion/SortStackRecursion/main.cpp
+	<iostream>
+	<stack>
+

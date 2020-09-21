@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597575887 source:/home/bipul/Documents/Stack/TrapRainWater/main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597556615 source:/home/bipul/Documents/Stack/MaxAreaRectangle/main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

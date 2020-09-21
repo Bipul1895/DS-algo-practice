@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598793151 source:/home/bipul/Documents/DS Algo Practice/Recursion/Reverse stack/main.cpp
+	<iostream>
+	<stack>
+

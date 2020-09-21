@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599024350 source:/home/bipul/Documents/DS Algo Practice/Recursion/Print Binary num with greater 1 in all prefixes/main.cpp
+	<iostream>
+	<vector>
+	<string>
+

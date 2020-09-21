@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597659376 source:/home/bipul/Documents/Binary Search/NumberOfTimesRotated/main.cpp
+	<iostream>
+	<vector>
+

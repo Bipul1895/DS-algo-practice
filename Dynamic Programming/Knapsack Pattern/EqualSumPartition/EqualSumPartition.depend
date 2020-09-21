@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597836575 source:/home/bipul/Documents/DS Algo Practice/Dynamic Programming/Knapsack Pattern/EqualSumPartition/main.cpp
+	<iostream>
+	<vector>
+
